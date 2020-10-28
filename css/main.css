@@ -1,0 +1,60 @@
+body {
+  background-color: #e8e8e8;
+}
+#vision-board {
+  width: 1200px;
+  height: 850px;
+  margin: 0 auto;
+  clear: both;
+  background-image: url("../img/background.png");
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+}
+.block {
+  width: 400px;
+  float: left;
+  box-sizing: border-box;
+}
+.small-box {
+  height: 210px;
+  padding: 45px;
+}
+.large-box {
+  height: 430px;
+  padding: 41px;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+.dark-bg {
+  background-color: black;
+}
+
+.light-bg {
+  background-color: #fff;
+}
+.twenty {
+  font-family: "Permanent Marker", cursive;
+  font-size: 30px;
+}
+.the-board {
+  font-size: 38px;
+  color: #fff;
+}
+.yellow {
+  background-color: yellow;
+  padding: 4px;
+}
+.lower {
+  text-transform: lowercase;
+}
+strong {
+  font-size: 30px;
+  line-height: 45px;
+}
+p {
+  line-height: 23px;
+}
